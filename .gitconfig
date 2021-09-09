@@ -1,0 +1,2 @@
+[include]
+	path = ~/git/dotfiles/gitconfig-global ; find "foo.inc" in your `$HOME` directory

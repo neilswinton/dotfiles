@@ -1,0 +1,13 @@
+[user]
+	email = 5995552+neilswinton@users.noreply.github.com
+	name = Neil Swinton
+[fetch]
+	pruneTags = true
+[rerere]
+	enabled = true
+
+[difftool "meld"]
+    cmd = meld "$LOCAL" "$REMOTE"
+
+[pull]
+	rebase = false

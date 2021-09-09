@@ -1,0 +1,9 @@
+# ignore emacs backup files
+*~
+
+# ignore emacs temp files:
+\#*#
+.#*
+
+ssh/local_config
+ssh/known_hosts
